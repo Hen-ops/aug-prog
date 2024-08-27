@@ -1,4 +1,6 @@
 # project exercise
-what kind of project should we start?
 
 maybe something like a game?
+
+lets work in a very simple game first!,
+Rock Paper Scissors in python!
